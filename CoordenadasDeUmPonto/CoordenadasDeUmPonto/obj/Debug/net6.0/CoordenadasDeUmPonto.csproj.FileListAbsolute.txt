@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CoordenadasDeUmPonto\CoordenadasDeUmPonto\bin\Debug\net6.0\CoordenadasDeUmPonto.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CoordenadasDeUmPonto\CoordenadasDeUmPonto\bin\Debug\net6.0\CoordenadasDeUmPonto.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CoordenadasDeUmPonto\CoordenadasDeUmPonto\bin\Debug\net6.0\CoordenadasDeUmPonto.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CoordenadasDeUmPonto\CoordenadasDeUmPonto\bin\Debug\net6.0\CoordenadasDeUmPonto.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CoordenadasDeUmPonto\CoordenadasDeUmPonto\bin\Debug\net6.0\CoordenadasDeUmPonto.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\net6.0\CoordenadasDeUmPonto.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\net6.0\CoordenadasDeUmPonto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\net6.0\CoordenadasDeUmPonto.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\net6.0\CoordenadasDeUmPonto.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\net6.0\CoordenadasDeUmPonto.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\net6.0\CoordenadasDeUmPonto.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\net6.0\refint\CoordenadasDeUmPonto.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\net6.0\CoordenadasDeUmPonto.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\net6.0\CoordenadasDeUmPonto.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\net6.0\ref\CoordenadasDeUmPonto.dll

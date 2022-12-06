@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesEmCincoNumeros\ParesEmCincoNumeros\bin\Debug\net6.0\ParesEmCincoNumeros.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesEmCincoNumeros\ParesEmCincoNumeros\bin\Debug\net6.0\ParesEmCincoNumeros.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesEmCincoNumeros\ParesEmCincoNumeros\bin\Debug\net6.0\ParesEmCincoNumeros.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesEmCincoNumeros\ParesEmCincoNumeros\bin\Debug\net6.0\ParesEmCincoNumeros.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesEmCincoNumeros\ParesEmCincoNumeros\bin\Debug\net6.0\ParesEmCincoNumeros.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesEmCincoNumeros\ParesEmCincoNumeros\obj\Debug\net6.0\ParesEmCincoNumeros.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesEmCincoNumeros\ParesEmCincoNumeros\obj\Debug\net6.0\ParesEmCincoNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesEmCincoNumeros\ParesEmCincoNumeros\obj\Debug\net6.0\ParesEmCincoNumeros.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesEmCincoNumeros\ParesEmCincoNumeros\obj\Debug\net6.0\ParesEmCincoNumeros.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesEmCincoNumeros\ParesEmCincoNumeros\obj\Debug\net6.0\ParesEmCincoNumeros.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesEmCincoNumeros\ParesEmCincoNumeros\obj\Debug\net6.0\ParesEmCincoNumeros.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesEmCincoNumeros\ParesEmCincoNumeros\obj\Debug\net6.0\refint\ParesEmCincoNumeros.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesEmCincoNumeros\ParesEmCincoNumeros\obj\Debug\net6.0\ParesEmCincoNumeros.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesEmCincoNumeros\ParesEmCincoNumeros\obj\Debug\net6.0\ParesEmCincoNumeros.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesEmCincoNumeros\ParesEmCincoNumeros\obj\Debug\net6.0\ref\ParesEmCincoNumeros.dll

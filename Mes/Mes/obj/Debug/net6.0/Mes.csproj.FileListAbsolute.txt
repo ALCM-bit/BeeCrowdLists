@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Mes\Mes\bin\Debug\net6.0\Mes.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Mes\Mes\bin\Debug\net6.0\Mes.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Mes\Mes\bin\Debug\net6.0\Mes.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Mes\Mes\bin\Debug\net6.0\Mes.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Mes\Mes\bin\Debug\net6.0\Mes.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Mes\Mes\obj\Debug\net6.0\Mes.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Mes\Mes\obj\Debug\net6.0\Mes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Mes\Mes\obj\Debug\net6.0\Mes.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Mes\Mes\obj\Debug\net6.0\Mes.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Mes\Mes\obj\Debug\net6.0\Mes.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Mes\Mes\obj\Debug\net6.0\Mes.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Mes\Mes\obj\Debug\net6.0\refint\Mes.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Mes\Mes\obj\Debug\net6.0\Mes.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Mes\Mes\obj\Debug\net6.0\Mes.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Mes\Mes\obj\Debug\net6.0\ref\Mes.dll

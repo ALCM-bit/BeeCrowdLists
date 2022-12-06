@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SomaDeImparesConsecutivos\SomaDeImparesConsecutivos\bin\Debug\net6.0\SomaDeImparesConsecutivos.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SomaDeImparesConsecutivos\SomaDeImparesConsecutivos\bin\Debug\net6.0\SomaDeImparesConsecutivos.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SomaDeImparesConsecutivos\SomaDeImparesConsecutivos\bin\Debug\net6.0\SomaDeImparesConsecutivos.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SomaDeImparesConsecutivos\SomaDeImparesConsecutivos\bin\Debug\net6.0\SomaDeImparesConsecutivos.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SomaDeImparesConsecutivos\SomaDeImparesConsecutivos\bin\Debug\net6.0\SomaDeImparesConsecutivos.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SomaDeImparesConsecutivos\SomaDeImparesConsecutivos\obj\Debug\net6.0\SomaDeImparesConsecutivos.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SomaDeImparesConsecutivos\SomaDeImparesConsecutivos\obj\Debug\net6.0\SomaDeImparesConsecutivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SomaDeImparesConsecutivos\SomaDeImparesConsecutivos\obj\Debug\net6.0\SomaDeImparesConsecutivos.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SomaDeImparesConsecutivos\SomaDeImparesConsecutivos\obj\Debug\net6.0\SomaDeImparesConsecutivos.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SomaDeImparesConsecutivos\SomaDeImparesConsecutivos\obj\Debug\net6.0\SomaDeImparesConsecutivos.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SomaDeImparesConsecutivos\SomaDeImparesConsecutivos\obj\Debug\net6.0\SomaDeImparesConsecutivos.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SomaDeImparesConsecutivos\SomaDeImparesConsecutivos\obj\Debug\net6.0\refint\SomaDeImparesConsecutivos.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SomaDeImparesConsecutivos\SomaDeImparesConsecutivos\obj\Debug\net6.0\SomaDeImparesConsecutivos.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SomaDeImparesConsecutivos\SomaDeImparesConsecutivos\obj\Debug\net6.0\SomaDeImparesConsecutivos.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SomaDeImparesConsecutivos\SomaDeImparesConsecutivos\obj\Debug\net6.0\ref\SomaDeImparesConsecutivos.dll

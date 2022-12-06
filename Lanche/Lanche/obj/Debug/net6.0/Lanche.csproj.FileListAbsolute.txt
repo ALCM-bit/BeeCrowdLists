@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Lanche\Lanche\bin\Debug\net6.0\Lanche.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Lanche\Lanche\bin\Debug\net6.0\Lanche.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Lanche\Lanche\bin\Debug\net6.0\Lanche.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Lanche\Lanche\bin\Debug\net6.0\Lanche.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Lanche\Lanche\bin\Debug\net6.0\Lanche.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Lanche\Lanche\obj\Debug\net6.0\Lanche.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Lanche\Lanche\obj\Debug\net6.0\Lanche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Lanche\Lanche\obj\Debug\net6.0\Lanche.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Lanche\Lanche\obj\Debug\net6.0\Lanche.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Lanche\Lanche\obj\Debug\net6.0\Lanche.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Lanche\Lanche\obj\Debug\net6.0\Lanche.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Lanche\Lanche\obj\Debug\net6.0\refint\Lanche.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Lanche\Lanche\obj\Debug\net6.0\Lanche.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Lanche\Lanche\obj\Debug\net6.0\Lanche.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Lanche\Lanche\obj\Debug\net6.0\ref\Lanche.dll

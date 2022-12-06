@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogoComMinutos\TempoDeJogoComMinutos\bin\Debug\net6.0\TempoDeJogoComMinutos.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogoComMinutos\TempoDeJogoComMinutos\bin\Debug\net6.0\TempoDeJogoComMinutos.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogoComMinutos\TempoDeJogoComMinutos\bin\Debug\net6.0\TempoDeJogoComMinutos.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogoComMinutos\TempoDeJogoComMinutos\bin\Debug\net6.0\TempoDeJogoComMinutos.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogoComMinutos\TempoDeJogoComMinutos\bin\Debug\net6.0\TempoDeJogoComMinutos.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\net6.0\TempoDeJogoComMinutos.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\net6.0\TempoDeJogoComMinutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\net6.0\TempoDeJogoComMinutos.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\net6.0\TempoDeJogoComMinutos.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\net6.0\TempoDeJogoComMinutos.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\net6.0\TempoDeJogoComMinutos.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\net6.0\refint\TempoDeJogoComMinutos.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\net6.0\TempoDeJogoComMinutos.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\net6.0\TempoDeJogoComMinutos.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\net6.0\ref\TempoDeJogoComMinutos.dll

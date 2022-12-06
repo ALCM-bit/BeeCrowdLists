@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TiposDeTriangulos\TiposDeTriangulos\bin\Debug\net6.0\TiposDeTriangulos.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TiposDeTriangulos\TiposDeTriangulos\bin\Debug\net6.0\TiposDeTriangulos.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TiposDeTriangulos\TiposDeTriangulos\bin\Debug\net6.0\TiposDeTriangulos.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TiposDeTriangulos\TiposDeTriangulos\bin\Debug\net6.0\TiposDeTriangulos.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TiposDeTriangulos\TiposDeTriangulos\bin\Debug\net6.0\TiposDeTriangulos.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TiposDeTriangulos\TiposDeTriangulos\obj\Debug\net6.0\TiposDeTriangulos.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TiposDeTriangulos\TiposDeTriangulos\obj\Debug\net6.0\TiposDeTriangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TiposDeTriangulos\TiposDeTriangulos\obj\Debug\net6.0\TiposDeTriangulos.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TiposDeTriangulos\TiposDeTriangulos\obj\Debug\net6.0\TiposDeTriangulos.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TiposDeTriangulos\TiposDeTriangulos\obj\Debug\net6.0\TiposDeTriangulos.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TiposDeTriangulos\TiposDeTriangulos\obj\Debug\net6.0\TiposDeTriangulos.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TiposDeTriangulos\TiposDeTriangulos\obj\Debug\net6.0\refint\TiposDeTriangulos.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TiposDeTriangulos\TiposDeTriangulos\obj\Debug\net6.0\TiposDeTriangulos.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TiposDeTriangulos\TiposDeTriangulos\obj\Debug\net6.0\TiposDeTriangulos.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TiposDeTriangulos\TiposDeTriangulos\obj\Debug\net6.0\ref\TiposDeTriangulos.dll

@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Experiencias\Experiencias\bin\Debug\net6.0\Experiencias.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Experiencias\Experiencias\bin\Debug\net6.0\Experiencias.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Experiencias\Experiencias\bin\Debug\net6.0\Experiencias.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Experiencias\Experiencias\bin\Debug\net6.0\Experiencias.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Experiencias\Experiencias\bin\Debug\net6.0\Experiencias.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Experiencias\Experiencias\obj\Debug\net6.0\Experiencias.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Experiencias\Experiencias\obj\Debug\net6.0\Experiencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Experiencias\Experiencias\obj\Debug\net6.0\Experiencias.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Experiencias\Experiencias\obj\Debug\net6.0\Experiencias.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Experiencias\Experiencias\obj\Debug\net6.0\Experiencias.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Experiencias\Experiencias\obj\Debug\net6.0\Experiencias.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Experiencias\Experiencias\obj\Debug\net6.0\refint\Experiencias.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Experiencias\Experiencias\obj\Debug\net6.0\Experiencias.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Experiencias\Experiencias\obj\Debug\net6.0\Experiencias.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Experiencias\Experiencias\obj\Debug\net6.0\ref\Experiencias.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediasPonderadas1079", "MediasPonderadas1079\MediasPonderadas1079.csproj", "{A2DAA085-1A20-4325-B575-3F97359E3857}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2DAA085-1A20-4325-B575-3F97359E3857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2DAA085-1A20-4325-B575-3F97359E3857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2DAA085-1A20-4325-B575-3F97359E3857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2DAA085-1A20-4325-B575-3F97359E3857}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9ED33F3E-F7FB-44E3-9484-4B560030AF5A}
+	EndGlobalSection
+EndGlobal

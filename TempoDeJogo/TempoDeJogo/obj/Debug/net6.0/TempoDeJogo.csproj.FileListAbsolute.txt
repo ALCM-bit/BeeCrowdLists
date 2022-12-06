@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogo\TempoDeJogo\bin\Debug\net6.0\TempoDeJogo.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogo\TempoDeJogo\bin\Debug\net6.0\TempoDeJogo.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogo\TempoDeJogo\bin\Debug\net6.0\TempoDeJogo.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogo\TempoDeJogo\bin\Debug\net6.0\TempoDeJogo.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogo\TempoDeJogo\bin\Debug\net6.0\TempoDeJogo.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogo\TempoDeJogo\obj\Debug\net6.0\TempoDeJogo.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogo\TempoDeJogo\obj\Debug\net6.0\TempoDeJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogo\TempoDeJogo\obj\Debug\net6.0\TempoDeJogo.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogo\TempoDeJogo\obj\Debug\net6.0\TempoDeJogo.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogo\TempoDeJogo\obj\Debug\net6.0\TempoDeJogo.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogo\TempoDeJogo\obj\Debug\net6.0\TempoDeJogo.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogo\TempoDeJogo\obj\Debug\net6.0\refint\TempoDeJogo.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogo\TempoDeJogo\obj\Debug\net6.0\TempoDeJogo.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogo\TempoDeJogo\obj\Debug\net6.0\TempoDeJogo.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeJogo\TempoDeJogo\obj\Debug\net6.0\ref\TempoDeJogo.dll

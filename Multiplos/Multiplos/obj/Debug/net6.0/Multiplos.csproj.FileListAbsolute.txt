@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Multiplos\Multiplos\bin\Debug\net6.0\Multiplos.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Multiplos\Multiplos\bin\Debug\net6.0\Multiplos.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Multiplos\Multiplos\bin\Debug\net6.0\Multiplos.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Multiplos\Multiplos\bin\Debug\net6.0\Multiplos.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Multiplos\Multiplos\bin\Debug\net6.0\Multiplos.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Multiplos\Multiplos\obj\Debug\net6.0\Multiplos.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Multiplos\Multiplos\obj\Debug\net6.0\Multiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Multiplos\Multiplos\obj\Debug\net6.0\Multiplos.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Multiplos\Multiplos\obj\Debug\net6.0\Multiplos.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Multiplos\Multiplos\obj\Debug\net6.0\Multiplos.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Multiplos\Multiplos\obj\Debug\net6.0\Multiplos.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Multiplos\Multiplos\obj\Debug\net6.0\refint\Multiplos.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Multiplos\Multiplos\obj\Debug\net6.0\Multiplos.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Multiplos\Multiplos\obj\Debug\net6.0\Multiplos.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Multiplos\Multiplos\obj\Debug\net6.0\ref\Multiplos.dll

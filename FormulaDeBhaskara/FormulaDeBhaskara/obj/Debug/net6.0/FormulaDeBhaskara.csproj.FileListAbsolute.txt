@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FormulaDeBhaskara\FormulaDeBhaskara\bin\Debug\net6.0\FormulaDeBhaskara.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FormulaDeBhaskara\FormulaDeBhaskara\bin\Debug\net6.0\FormulaDeBhaskara.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FormulaDeBhaskara\FormulaDeBhaskara\bin\Debug\net6.0\FormulaDeBhaskara.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FormulaDeBhaskara\FormulaDeBhaskara\bin\Debug\net6.0\FormulaDeBhaskara.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FormulaDeBhaskara\FormulaDeBhaskara\bin\Debug\net6.0\FormulaDeBhaskara.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net6.0\FormulaDeBhaskara.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net6.0\FormulaDeBhaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net6.0\FormulaDeBhaskara.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net6.0\FormulaDeBhaskara.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net6.0\FormulaDeBhaskara.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net6.0\FormulaDeBhaskara.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net6.0\refint\FormulaDeBhaskara.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net6.0\FormulaDeBhaskara.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net6.0\FormulaDeBhaskara.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net6.0\ref\FormulaDeBhaskara.dll

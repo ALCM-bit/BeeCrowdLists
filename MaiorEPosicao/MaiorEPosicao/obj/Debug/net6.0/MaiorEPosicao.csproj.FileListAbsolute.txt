@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MaiorEPosicao\MaiorEPosicao\bin\Debug\net6.0\MaiorEPosicao.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MaiorEPosicao\MaiorEPosicao\bin\Debug\net6.0\MaiorEPosicao.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MaiorEPosicao\MaiorEPosicao\bin\Debug\net6.0\MaiorEPosicao.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MaiorEPosicao\MaiorEPosicao\bin\Debug\net6.0\MaiorEPosicao.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MaiorEPosicao\MaiorEPosicao\bin\Debug\net6.0\MaiorEPosicao.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MaiorEPosicao\MaiorEPosicao\obj\Debug\net6.0\MaiorEPosicao.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MaiorEPosicao\MaiorEPosicao\obj\Debug\net6.0\MaiorEPosicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MaiorEPosicao\MaiorEPosicao\obj\Debug\net6.0\MaiorEPosicao.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MaiorEPosicao\MaiorEPosicao\obj\Debug\net6.0\MaiorEPosicao.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MaiorEPosicao\MaiorEPosicao\obj\Debug\net6.0\MaiorEPosicao.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MaiorEPosicao\MaiorEPosicao\obj\Debug\net6.0\MaiorEPosicao.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MaiorEPosicao\MaiorEPosicao\obj\Debug\net6.0\refint\MaiorEPosicao.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MaiorEPosicao\MaiorEPosicao\obj\Debug\net6.0\MaiorEPosicao.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MaiorEPosicao\MaiorEPosicao\obj\Debug\net6.0\MaiorEPosicao.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MaiorEPosicao\MaiorEPosicao\obj\Debug\net6.0\ref\MaiorEPosicao.dll

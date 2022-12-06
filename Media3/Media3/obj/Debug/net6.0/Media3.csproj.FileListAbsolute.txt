@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Media3\Media3\bin\Debug\net6.0\Media3.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Media3\Media3\bin\Debug\net6.0\Media3.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Media3\Media3\bin\Debug\net6.0\Media3.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Media3\Media3\bin\Debug\net6.0\Media3.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Media3\Media3\bin\Debug\net6.0\Media3.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Media3\Media3\obj\Debug\net6.0\Media3.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Media3\Media3\obj\Debug\net6.0\Media3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Media3\Media3\obj\Debug\net6.0\Media3.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Media3\Media3\obj\Debug\net6.0\Media3.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Media3\Media3\obj\Debug\net6.0\Media3.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Media3\Media3\obj\Debug\net6.0\Media3.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Media3\Media3\obj\Debug\net6.0\refint\Media3.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Media3\Media3\obj\Debug\net6.0\Media3.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Media3\Media3\obj\Debug\net6.0\Media3.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Media3\Media3\obj\Debug\net6.0\ref\Media3.dll

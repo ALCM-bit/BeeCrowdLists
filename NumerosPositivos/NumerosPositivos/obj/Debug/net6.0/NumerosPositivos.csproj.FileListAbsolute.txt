@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPositivos\NumerosPositivos\bin\Debug\net6.0\NumerosPositivos.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPositivos\NumerosPositivos\bin\Debug\net6.0\NumerosPositivos.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPositivos\NumerosPositivos\bin\Debug\net6.0\NumerosPositivos.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPositivos\NumerosPositivos\bin\Debug\net6.0\NumerosPositivos.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPositivos\NumerosPositivos\bin\Debug\net6.0\NumerosPositivos.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPositivos\NumerosPositivos\obj\Debug\net6.0\NumerosPositivos.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPositivos\NumerosPositivos\obj\Debug\net6.0\NumerosPositivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPositivos\NumerosPositivos\obj\Debug\net6.0\NumerosPositivos.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPositivos\NumerosPositivos\obj\Debug\net6.0\NumerosPositivos.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPositivos\NumerosPositivos\obj\Debug\net6.0\NumerosPositivos.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPositivos\NumerosPositivos\obj\Debug\net6.0\NumerosPositivos.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPositivos\NumerosPositivos\obj\Debug\net6.0\refint\NumerosPositivos.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPositivos\NumerosPositivos\obj\Debug\net6.0\NumerosPositivos.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPositivos\NumerosPositivos\obj\Debug\net6.0\NumerosPositivos.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPositivos\NumerosPositivos\obj\Debug\net6.0\ref\NumerosPositivos.dll

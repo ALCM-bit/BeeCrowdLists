@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Grenais\Grenais\bin\Debug\net6.0\Grenais.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Grenais\Grenais\bin\Debug\net6.0\Grenais.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Grenais\Grenais\bin\Debug\net6.0\Grenais.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Grenais\Grenais\bin\Debug\net6.0\Grenais.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Grenais\Grenais\bin\Debug\net6.0\Grenais.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Grenais\Grenais\obj\Debug\net6.0\Grenais.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Grenais\Grenais\obj\Debug\net6.0\Grenais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Grenais\Grenais\obj\Debug\net6.0\Grenais.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Grenais\Grenais\obj\Debug\net6.0\Grenais.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Grenais\Grenais\obj\Debug\net6.0\Grenais.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Grenais\Grenais\obj\Debug\net6.0\Grenais.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Grenais\Grenais\obj\Debug\net6.0\refint\Grenais.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Grenais\Grenais\obj\Debug\net6.0\Grenais.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Grenais\Grenais\obj\Debug\net6.0\Grenais.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Grenais\Grenais\obj\Debug\net6.0\ref\Grenais.dll

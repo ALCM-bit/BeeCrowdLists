@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SenhaFixa\SenhaFixa\bin\Debug\net6.0\SenhaFixa.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SenhaFixa\SenhaFixa\bin\Debug\net6.0\SenhaFixa.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SenhaFixa\SenhaFixa\bin\Debug\net6.0\SenhaFixa.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SenhaFixa\SenhaFixa\bin\Debug\net6.0\SenhaFixa.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SenhaFixa\SenhaFixa\bin\Debug\net6.0\SenhaFixa.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SenhaFixa\SenhaFixa\obj\Debug\net6.0\SenhaFixa.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SenhaFixa\SenhaFixa\obj\Debug\net6.0\SenhaFixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SenhaFixa\SenhaFixa\obj\Debug\net6.0\SenhaFixa.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SenhaFixa\SenhaFixa\obj\Debug\net6.0\SenhaFixa.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SenhaFixa\SenhaFixa\obj\Debug\net6.0\SenhaFixa.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SenhaFixa\SenhaFixa\obj\Debug\net6.0\SenhaFixa.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SenhaFixa\SenhaFixa\obj\Debug\net6.0\refint\SenhaFixa.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SenhaFixa\SenhaFixa\obj\Debug\net6.0\SenhaFixa.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SenhaFixa\SenhaFixa\obj\Debug\net6.0\SenhaFixa.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SenhaFixa\SenhaFixa\obj\Debug\net6.0\ref\SenhaFixa.dll

@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParOuImpar\ParOuImpar\bin\Debug\net6.0\ParOuImpar.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParOuImpar\ParOuImpar\bin\Debug\net6.0\ParOuImpar.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParOuImpar\ParOuImpar\bin\Debug\net6.0\ParOuImpar.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParOuImpar\ParOuImpar\bin\Debug\net6.0\ParOuImpar.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParOuImpar\ParOuImpar\bin\Debug\net6.0\ParOuImpar.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParOuImpar\ParOuImpar\obj\Debug\net6.0\ParOuImpar.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParOuImpar\ParOuImpar\obj\Debug\net6.0\ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParOuImpar\ParOuImpar\obj\Debug\net6.0\ParOuImpar.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParOuImpar\ParOuImpar\obj\Debug\net6.0\ParOuImpar.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParOuImpar\ParOuImpar\obj\Debug\net6.0\ParOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParOuImpar\ParOuImpar\obj\Debug\net6.0\ParOuImpar.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParOuImpar\ParOuImpar\obj\Debug\net6.0\refint\ParOuImpar.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParOuImpar\ParOuImpar\obj\Debug\net6.0\ParOuImpar.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParOuImpar\ParOuImpar\obj\Debug\net6.0\ParOuImpar.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParOuImpar\ParOuImpar\obj\Debug\net6.0\ref\ParOuImpar.dll

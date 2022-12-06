@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PositivosEMedia\PositivosEMedia\bin\Debug\net6.0\PositivosEMedia.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PositivosEMedia\PositivosEMedia\bin\Debug\net6.0\PositivosEMedia.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PositivosEMedia\PositivosEMedia\bin\Debug\net6.0\PositivosEMedia.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PositivosEMedia\PositivosEMedia\bin\Debug\net6.0\PositivosEMedia.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PositivosEMedia\PositivosEMedia\bin\Debug\net6.0\PositivosEMedia.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PositivosEMedia\PositivosEMedia\obj\Debug\net6.0\PositivosEMedia.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PositivosEMedia\PositivosEMedia\obj\Debug\net6.0\PositivosEMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PositivosEMedia\PositivosEMedia\obj\Debug\net6.0\PositivosEMedia.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PositivosEMedia\PositivosEMedia\obj\Debug\net6.0\PositivosEMedia.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PositivosEMedia\PositivosEMedia\obj\Debug\net6.0\PositivosEMedia.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PositivosEMedia\PositivosEMedia\obj\Debug\net6.0\PositivosEMedia.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PositivosEMedia\PositivosEMedia\obj\Debug\net6.0\refint\PositivosEMedia.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PositivosEMedia\PositivosEMedia\obj\Debug\net6.0\PositivosEMedia.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PositivosEMedia\PositivosEMedia\obj\Debug\net6.0\PositivosEMedia.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PositivosEMedia\PositivosEMedia\obj\Debug\net6.0\ref\PositivosEMedia.dll

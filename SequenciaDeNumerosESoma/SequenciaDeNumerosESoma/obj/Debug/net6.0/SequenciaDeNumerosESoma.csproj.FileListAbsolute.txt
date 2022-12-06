@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaDeNumerosESoma\SequenciaDeNumerosESoma\bin\Debug\net6.0\SequenciaDeNumerosESoma.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaDeNumerosESoma\SequenciaDeNumerosESoma\bin\Debug\net6.0\SequenciaDeNumerosESoma.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaDeNumerosESoma\SequenciaDeNumerosESoma\bin\Debug\net6.0\SequenciaDeNumerosESoma.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaDeNumerosESoma\SequenciaDeNumerosESoma\bin\Debug\net6.0\SequenciaDeNumerosESoma.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaDeNumerosESoma\SequenciaDeNumerosESoma\bin\Debug\net6.0\SequenciaDeNumerosESoma.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaDeNumerosESoma\SequenciaDeNumerosESoma\obj\Debug\net6.0\SequenciaDeNumerosESoma.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaDeNumerosESoma\SequenciaDeNumerosESoma\obj\Debug\net6.0\SequenciaDeNumerosESoma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaDeNumerosESoma\SequenciaDeNumerosESoma\obj\Debug\net6.0\SequenciaDeNumerosESoma.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaDeNumerosESoma\SequenciaDeNumerosESoma\obj\Debug\net6.0\SequenciaDeNumerosESoma.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaDeNumerosESoma\SequenciaDeNumerosESoma\obj\Debug\net6.0\SequenciaDeNumerosESoma.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaDeNumerosESoma\SequenciaDeNumerosESoma\obj\Debug\net6.0\SequenciaDeNumerosESoma.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaDeNumerosESoma\SequenciaDeNumerosESoma\obj\Debug\net6.0\refint\SequenciaDeNumerosESoma.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaDeNumerosESoma\SequenciaDeNumerosESoma\obj\Debug\net6.0\SequenciaDeNumerosESoma.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaDeNumerosESoma\SequenciaDeNumerosESoma\obj\Debug\net6.0\SequenciaDeNumerosESoma.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaDeNumerosESoma\SequenciaDeNumerosESoma\obj\Debug\net6.0\ref\SequenciaDeNumerosESoma.dll

@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TesteDeSelecao1\TesteDeSelecao1\bin\Debug\net6.0\TesteDeSelecao1.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TesteDeSelecao1\TesteDeSelecao1\bin\Debug\net6.0\TesteDeSelecao1.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TesteDeSelecao1\TesteDeSelecao1\bin\Debug\net6.0\TesteDeSelecao1.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TesteDeSelecao1\TesteDeSelecao1\bin\Debug\net6.0\TesteDeSelecao1.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TesteDeSelecao1\TesteDeSelecao1\bin\Debug\net6.0\TesteDeSelecao1.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TesteDeSelecao1\TesteDeSelecao1\obj\Debug\net6.0\TesteDeSelecao1.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TesteDeSelecao1\TesteDeSelecao1\obj\Debug\net6.0\TesteDeSelecao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TesteDeSelecao1\TesteDeSelecao1\obj\Debug\net6.0\TesteDeSelecao1.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TesteDeSelecao1\TesteDeSelecao1\obj\Debug\net6.0\TesteDeSelecao1.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TesteDeSelecao1\TesteDeSelecao1\obj\Debug\net6.0\TesteDeSelecao1.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TesteDeSelecao1\TesteDeSelecao1\obj\Debug\net6.0\TesteDeSelecao1.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TesteDeSelecao1\TesteDeSelecao1\obj\Debug\net6.0\refint\TesteDeSelecao1.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TesteDeSelecao1\TesteDeSelecao1\obj\Debug\net6.0\TesteDeSelecao1.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TesteDeSelecao1\TesteDeSelecao1\obj\Debug\net6.0\TesteDeSelecao1.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TesteDeSelecao1\TesteDeSelecao1\obj\Debug\net6.0\ref\TesteDeSelecao1.dll

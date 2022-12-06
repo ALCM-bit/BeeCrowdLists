@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Quadrante\Quadrante\bin\Debug\net6.0\Quadrante.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Quadrante\Quadrante\bin\Debug\net6.0\Quadrante.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Quadrante\Quadrante\bin\Debug\net6.0\Quadrante.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Quadrante\Quadrante\bin\Debug\net6.0\Quadrante.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Quadrante\Quadrante\bin\Debug\net6.0\Quadrante.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Quadrante\Quadrante\obj\Debug\net6.0\Quadrante.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Quadrante\Quadrante\obj\Debug\net6.0\Quadrante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Quadrante\Quadrante\obj\Debug\net6.0\Quadrante.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Quadrante\Quadrante\obj\Debug\net6.0\Quadrante.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Quadrante\Quadrante\obj\Debug\net6.0\Quadrante.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Quadrante\Quadrante\obj\Debug\net6.0\Quadrante.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Quadrante\Quadrante\obj\Debug\net6.0\refint\Quadrante.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Quadrante\Quadrante\obj\Debug\net6.0\Quadrante.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Quadrante\Quadrante\obj\Debug\net6.0\Quadrante.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Quadrante\Quadrante\obj\Debug\net6.0\ref\Quadrante.dll

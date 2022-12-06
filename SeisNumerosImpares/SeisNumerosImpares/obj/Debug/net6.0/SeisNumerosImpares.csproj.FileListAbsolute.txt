@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SeisNumerosImpares\SeisNumerosImpares\bin\Debug\net6.0\SeisNumerosImpares.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SeisNumerosImpares\SeisNumerosImpares\bin\Debug\net6.0\SeisNumerosImpares.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SeisNumerosImpares\SeisNumerosImpares\bin\Debug\net6.0\SeisNumerosImpares.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SeisNumerosImpares\SeisNumerosImpares\bin\Debug\net6.0\SeisNumerosImpares.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SeisNumerosImpares\SeisNumerosImpares\bin\Debug\net6.0\SeisNumerosImpares.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SeisNumerosImpares\SeisNumerosImpares\obj\Debug\net6.0\SeisNumerosImpares.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SeisNumerosImpares\SeisNumerosImpares\obj\Debug\net6.0\SeisNumerosImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SeisNumerosImpares\SeisNumerosImpares\obj\Debug\net6.0\SeisNumerosImpares.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SeisNumerosImpares\SeisNumerosImpares\obj\Debug\net6.0\SeisNumerosImpares.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SeisNumerosImpares\SeisNumerosImpares\obj\Debug\net6.0\SeisNumerosImpares.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SeisNumerosImpares\SeisNumerosImpares\obj\Debug\net6.0\SeisNumerosImpares.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SeisNumerosImpares\SeisNumerosImpares\obj\Debug\net6.0\refint\SeisNumerosImpares.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SeisNumerosImpares\SeisNumerosImpares\obj\Debug\net6.0\SeisNumerosImpares.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SeisNumerosImpares\SeisNumerosImpares\obj\Debug\net6.0\SeisNumerosImpares.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SeisNumerosImpares\SeisNumerosImpares\obj\Debug\net6.0\ref\SeisNumerosImpares.dll

@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeUmEvento\TempoDeUmEvento\bin\Debug\net6.0\TempoDeUmEvento.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeUmEvento\TempoDeUmEvento\bin\Debug\net6.0\TempoDeUmEvento.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeUmEvento\TempoDeUmEvento\bin\Debug\net6.0\TempoDeUmEvento.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeUmEvento\TempoDeUmEvento\bin\Debug\net6.0\TempoDeUmEvento.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeUmEvento\TempoDeUmEvento\bin\Debug\net6.0\TempoDeUmEvento.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeUmEvento\TempoDeUmEvento\obj\Debug\net6.0\TempoDeUmEvento.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeUmEvento\TempoDeUmEvento\obj\Debug\net6.0\TempoDeUmEvento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeUmEvento\TempoDeUmEvento\obj\Debug\net6.0\TempoDeUmEvento.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeUmEvento\TempoDeUmEvento\obj\Debug\net6.0\TempoDeUmEvento.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeUmEvento\TempoDeUmEvento\obj\Debug\net6.0\TempoDeUmEvento.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeUmEvento\TempoDeUmEvento\obj\Debug\net6.0\TempoDeUmEvento.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeUmEvento\TempoDeUmEvento\obj\Debug\net6.0\refint\TempoDeUmEvento.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeUmEvento\TempoDeUmEvento\obj\Debug\net6.0\TempoDeUmEvento.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeUmEvento\TempoDeUmEvento\obj\Debug\net6.0\TempoDeUmEvento.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TempoDeUmEvento\TempoDeUmEvento\obj\Debug\net6.0\ref\TempoDeUmEvento.dll

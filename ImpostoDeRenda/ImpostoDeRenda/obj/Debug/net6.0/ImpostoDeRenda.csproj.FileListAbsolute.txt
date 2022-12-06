@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ImpostoDeRenda\ImpostoDeRenda\bin\Debug\net6.0\ImpostoDeRenda.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ImpostoDeRenda\ImpostoDeRenda\bin\Debug\net6.0\ImpostoDeRenda.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ImpostoDeRenda\ImpostoDeRenda\bin\Debug\net6.0\ImpostoDeRenda.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ImpostoDeRenda\ImpostoDeRenda\bin\Debug\net6.0\ImpostoDeRenda.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ImpostoDeRenda\ImpostoDeRenda\bin\Debug\net6.0\ImpostoDeRenda.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ImpostoDeRenda\ImpostoDeRenda\obj\Debug\net6.0\ImpostoDeRenda.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ImpostoDeRenda\ImpostoDeRenda\obj\Debug\net6.0\ImpostoDeRenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ImpostoDeRenda\ImpostoDeRenda\obj\Debug\net6.0\ImpostoDeRenda.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ImpostoDeRenda\ImpostoDeRenda\obj\Debug\net6.0\ImpostoDeRenda.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ImpostoDeRenda\ImpostoDeRenda\obj\Debug\net6.0\ImpostoDeRenda.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ImpostoDeRenda\ImpostoDeRenda\obj\Debug\net6.0\ImpostoDeRenda.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ImpostoDeRenda\ImpostoDeRenda\obj\Debug\net6.0\refint\ImpostoDeRenda.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ImpostoDeRenda\ImpostoDeRenda\obj\Debug\net6.0\ImpostoDeRenda.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ImpostoDeRenda\ImpostoDeRenda\obj\Debug\net6.0\ImpostoDeRenda.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ImpostoDeRenda\ImpostoDeRenda\obj\Debug\net6.0\ref\ImpostoDeRenda.dll

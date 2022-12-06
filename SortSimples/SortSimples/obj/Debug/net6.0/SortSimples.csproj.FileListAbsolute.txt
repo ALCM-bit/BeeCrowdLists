@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SortSimples\SortSimples\bin\Debug\net6.0\SortSimples.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SortSimples\SortSimples\bin\Debug\net6.0\SortSimples.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SortSimples\SortSimples\bin\Debug\net6.0\SortSimples.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SortSimples\SortSimples\bin\Debug\net6.0\SortSimples.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SortSimples\SortSimples\bin\Debug\net6.0\SortSimples.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SortSimples\SortSimples\obj\Debug\net6.0\SortSimples.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SortSimples\SortSimples\obj\Debug\net6.0\SortSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SortSimples\SortSimples\obj\Debug\net6.0\SortSimples.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SortSimples\SortSimples\obj\Debug\net6.0\SortSimples.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SortSimples\SortSimples\obj\Debug\net6.0\SortSimples.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SortSimples\SortSimples\obj\Debug\net6.0\SortSimples.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SortSimples\SortSimples\obj\Debug\net6.0\refint\SortSimples.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SortSimples\SortSimples\obj\Debug\net6.0\SortSimples.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SortSimples\SortSimples\obj\Debug\net6.0\SortSimples.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SortSimples\SortSimples\obj\Debug\net6.0\ref\SortSimples.dll

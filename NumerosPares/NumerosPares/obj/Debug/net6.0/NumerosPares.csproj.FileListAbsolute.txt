@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPares\NumerosPares\bin\Debug\net6.0\NumerosPares.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPares\NumerosPares\bin\Debug\net6.0\NumerosPares.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPares\NumerosPares\bin\Debug\net6.0\NumerosPares.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPares\NumerosPares\bin\Debug\net6.0\NumerosPares.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPares\NumerosPares\bin\Debug\net6.0\NumerosPares.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPares\NumerosPares\obj\Debug\net6.0\NumerosPares.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPares\NumerosPares\obj\Debug\net6.0\NumerosPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPares\NumerosPares\obj\Debug\net6.0\NumerosPares.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPares\NumerosPares\obj\Debug\net6.0\NumerosPares.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPares\NumerosPares\obj\Debug\net6.0\NumerosPares.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPares\NumerosPares\obj\Debug\net6.0\NumerosPares.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPares\NumerosPares\obj\Debug\net6.0\refint\NumerosPares.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPares\NumerosPares\obj\Debug\net6.0\NumerosPares.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPares\NumerosPares\obj\Debug\net6.0\NumerosPares.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NumerosPares\NumerosPares\obj\Debug\net6.0\ref\NumerosPares.dll

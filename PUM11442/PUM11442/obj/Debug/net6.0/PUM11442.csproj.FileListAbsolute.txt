@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PUM11442\PUM11442\bin\Debug\net6.0\PUM11442.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PUM11442\PUM11442\bin\Debug\net6.0\PUM11442.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PUM11442\PUM11442\bin\Debug\net6.0\PUM11442.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PUM11442\PUM11442\bin\Debug\net6.0\PUM11442.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PUM11442\PUM11442\bin\Debug\net6.0\PUM11442.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PUM11442\PUM11442\obj\Debug\net6.0\PUM11442.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PUM11442\PUM11442\obj\Debug\net6.0\PUM11442.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PUM11442\PUM11442\obj\Debug\net6.0\PUM11442.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PUM11442\PUM11442\obj\Debug\net6.0\PUM11442.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PUM11442\PUM11442\obj\Debug\net6.0\PUM11442.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PUM11442\PUM11442\obj\Debug\net6.0\PUM11442.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PUM11442\PUM11442\obj\Debug\net6.0\refint\PUM11442.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PUM11442\PUM11442\obj\Debug\net6.0\PUM11442.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PUM11442\PUM11442\obj\Debug\net6.0\PUM11442.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PUM11442\PUM11442\obj\Debug\net6.0\ref\PUM11442.dll

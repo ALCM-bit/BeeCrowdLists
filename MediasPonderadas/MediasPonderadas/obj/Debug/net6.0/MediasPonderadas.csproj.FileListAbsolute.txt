@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MediasPonderadas\MediasPonderadas\bin\Debug\net6.0\MediasPonderadas.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MediasPonderadas\MediasPonderadas\bin\Debug\net6.0\MediasPonderadas.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MediasPonderadas\MediasPonderadas\bin\Debug\net6.0\MediasPonderadas.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MediasPonderadas\MediasPonderadas\bin\Debug\net6.0\MediasPonderadas.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MediasPonderadas\MediasPonderadas\bin\Debug\net6.0\MediasPonderadas.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MediasPonderadas\MediasPonderadas\obj\Debug\net6.0\MediasPonderadas.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MediasPonderadas\MediasPonderadas\obj\Debug\net6.0\MediasPonderadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MediasPonderadas\MediasPonderadas\obj\Debug\net6.0\MediasPonderadas.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MediasPonderadas\MediasPonderadas\obj\Debug\net6.0\MediasPonderadas.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MediasPonderadas\MediasPonderadas\obj\Debug\net6.0\MediasPonderadas.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MediasPonderadas\MediasPonderadas\obj\Debug\net6.0\MediasPonderadas.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MediasPonderadas\MediasPonderadas\obj\Debug\net6.0\refint\MediasPonderadas.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MediasPonderadas\MediasPonderadas\obj\Debug\net6.0\MediasPonderadas.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MediasPonderadas\MediasPonderadas\obj\Debug\net6.0\MediasPonderadas.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\MediasPonderadas\MediasPonderadas\obj\Debug\net6.0\ref\MediasPonderadas.dll

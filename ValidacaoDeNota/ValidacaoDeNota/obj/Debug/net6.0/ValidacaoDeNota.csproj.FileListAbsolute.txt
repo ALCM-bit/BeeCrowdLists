@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ValidacaoDeNota\ValidacaoDeNota\bin\Debug\net6.0\ValidacaoDeNota.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ValidacaoDeNota\ValidacaoDeNota\bin\Debug\net6.0\ValidacaoDeNota.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ValidacaoDeNota\ValidacaoDeNota\bin\Debug\net6.0\ValidacaoDeNota.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ValidacaoDeNota\ValidacaoDeNota\bin\Debug\net6.0\ValidacaoDeNota.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ValidacaoDeNota\ValidacaoDeNota\bin\Debug\net6.0\ValidacaoDeNota.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ValidacaoDeNota\ValidacaoDeNota\obj\Debug\net6.0\ValidacaoDeNota.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ValidacaoDeNota\ValidacaoDeNota\obj\Debug\net6.0\ValidacaoDeNota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ValidacaoDeNota\ValidacaoDeNota\obj\Debug\net6.0\ValidacaoDeNota.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ValidacaoDeNota\ValidacaoDeNota\obj\Debug\net6.0\ValidacaoDeNota.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ValidacaoDeNota\ValidacaoDeNota\obj\Debug\net6.0\ValidacaoDeNota.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ValidacaoDeNota\ValidacaoDeNota\obj\Debug\net6.0\ValidacaoDeNota.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ValidacaoDeNota\ValidacaoDeNota\obj\Debug\net6.0\refint\ValidacaoDeNota.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ValidacaoDeNota\ValidacaoDeNota\obj\Debug\net6.0\ValidacaoDeNota.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ValidacaoDeNota\ValidacaoDeNota\obj\Debug\net6.0\ValidacaoDeNota.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ValidacaoDeNota\ValidacaoDeNota\obj\Debug\net6.0\ref\ValidacaoDeNota.dll

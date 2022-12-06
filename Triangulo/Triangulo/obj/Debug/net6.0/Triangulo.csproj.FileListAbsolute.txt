@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Triangulo\Triangulo\bin\Debug\net6.0\Triangulo.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Triangulo\Triangulo\bin\Debug\net6.0\Triangulo.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Triangulo\Triangulo\bin\Debug\net6.0\Triangulo.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Triangulo\Triangulo\bin\Debug\net6.0\Triangulo.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Triangulo\Triangulo\bin\Debug\net6.0\Triangulo.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Triangulo\Triangulo\obj\Debug\net6.0\Triangulo.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Triangulo\Triangulo\obj\Debug\net6.0\Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Triangulo\Triangulo\obj\Debug\net6.0\Triangulo.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Triangulo\Triangulo\obj\Debug\net6.0\Triangulo.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Triangulo\Triangulo\obj\Debug\net6.0\Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Triangulo\Triangulo\obj\Debug\net6.0\Triangulo.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Triangulo\Triangulo\obj\Debug\net6.0\refint\Triangulo.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Triangulo\Triangulo\obj\Debug\net6.0\Triangulo.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Triangulo\Triangulo\obj\Debug\net6.0\Triangulo.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Triangulo\Triangulo\obj\Debug\net6.0\ref\Triangulo.dll

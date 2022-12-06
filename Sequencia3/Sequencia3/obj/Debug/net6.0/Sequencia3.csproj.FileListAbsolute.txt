@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Sequencia3\Sequencia3\bin\Debug\net6.0\Sequencia3.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Sequencia3\Sequencia3\bin\Debug\net6.0\Sequencia3.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Sequencia3\Sequencia3\bin\Debug\net6.0\Sequencia3.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Sequencia3\Sequencia3\bin\Debug\net6.0\Sequencia3.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Sequencia3\Sequencia3\bin\Debug\net6.0\Sequencia3.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Sequencia3\Sequencia3\obj\Debug\net6.0\Sequencia3.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Sequencia3\Sequencia3\obj\Debug\net6.0\Sequencia3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Sequencia3\Sequencia3\obj\Debug\net6.0\Sequencia3.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Sequencia3\Sequencia3\obj\Debug\net6.0\Sequencia3.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Sequencia3\Sequencia3\obj\Debug\net6.0\Sequencia3.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Sequencia3\Sequencia3\obj\Debug\net6.0\Sequencia3.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Sequencia3\Sequencia3\obj\Debug\net6.0\refint\Sequencia3.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Sequencia3\Sequencia3\obj\Debug\net6.0\Sequencia3.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Sequencia3\Sequencia3\obj\Debug\net6.0\Sequencia3.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Sequencia3\Sequencia3\obj\Debug\net6.0\ref\Sequencia3.dll

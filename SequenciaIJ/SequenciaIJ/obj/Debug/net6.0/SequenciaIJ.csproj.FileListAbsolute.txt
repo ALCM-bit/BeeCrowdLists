@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaIJ\SequenciaIJ\bin\Debug\net6.0\SequenciaIJ.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaIJ\SequenciaIJ\bin\Debug\net6.0\SequenciaIJ.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaIJ\SequenciaIJ\bin\Debug\net6.0\SequenciaIJ.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaIJ\SequenciaIJ\bin\Debug\net6.0\SequenciaIJ.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaIJ\SequenciaIJ\bin\Debug\net6.0\SequenciaIJ.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaIJ\SequenciaIJ\obj\Debug\net6.0\SequenciaIJ.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaIJ\SequenciaIJ\obj\Debug\net6.0\SequenciaIJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaIJ\SequenciaIJ\obj\Debug\net6.0\SequenciaIJ.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaIJ\SequenciaIJ\obj\Debug\net6.0\SequenciaIJ.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaIJ\SequenciaIJ\obj\Debug\net6.0\SequenciaIJ.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaIJ\SequenciaIJ\obj\Debug\net6.0\SequenciaIJ.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaIJ\SequenciaIJ\obj\Debug\net6.0\refint\SequenciaIJ.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaIJ\SequenciaIJ\obj\Debug\net6.0\SequenciaIJ.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaIJ\SequenciaIJ\obj\Debug\net6.0\SequenciaIJ.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaIJ\SequenciaIJ\obj\Debug\net6.0\ref\SequenciaIJ.dll

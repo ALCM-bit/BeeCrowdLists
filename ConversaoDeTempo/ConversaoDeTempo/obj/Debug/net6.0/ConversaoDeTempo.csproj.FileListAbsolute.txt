@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ConversaoDeTempo\ConversaoDeTempo\bin\Debug\net6.0\ConversaoDeTempo.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ConversaoDeTempo\ConversaoDeTempo\bin\Debug\net6.0\ConversaoDeTempo.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ConversaoDeTempo\ConversaoDeTempo\bin\Debug\net6.0\ConversaoDeTempo.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ConversaoDeTempo\ConversaoDeTempo\bin\Debug\net6.0\ConversaoDeTempo.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ConversaoDeTempo\ConversaoDeTempo\bin\Debug\net6.0\ConversaoDeTempo.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\net6.0\ConversaoDeTempo.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\net6.0\ConversaoDeTempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\net6.0\ConversaoDeTempo.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\net6.0\ConversaoDeTempo.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\net6.0\ConversaoDeTempo.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\net6.0\ConversaoDeTempo.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\net6.0\refint\ConversaoDeTempo.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\net6.0\ConversaoDeTempo.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\net6.0\ConversaoDeTempo.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\net6.0\ref\ConversaoDeTempo.dll

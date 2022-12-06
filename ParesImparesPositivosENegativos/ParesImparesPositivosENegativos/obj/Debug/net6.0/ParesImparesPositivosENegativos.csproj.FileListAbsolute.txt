@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesImparesPositivosENegativos\ParesImparesPositivosENegativos\bin\Debug\net6.0\ParesImparesPositivosENegativos.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesImparesPositivosENegativos\ParesImparesPositivosENegativos\bin\Debug\net6.0\ParesImparesPositivosENegativos.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesImparesPositivosENegativos\ParesImparesPositivosENegativos\bin\Debug\net6.0\ParesImparesPositivosENegativos.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesImparesPositivosENegativos\ParesImparesPositivosENegativos\bin\Debug\net6.0\ParesImparesPositivosENegativos.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesImparesPositivosENegativos\ParesImparesPositivosENegativos\bin\Debug\net6.0\ParesImparesPositivosENegativos.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesImparesPositivosENegativos\ParesImparesPositivosENegativos\obj\Debug\net6.0\ParesImparesPositivosENegativos.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesImparesPositivosENegativos\ParesImparesPositivosENegativos\obj\Debug\net6.0\ParesImparesPositivosENegativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesImparesPositivosENegativos\ParesImparesPositivosENegativos\obj\Debug\net6.0\ParesImparesPositivosENegativos.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesImparesPositivosENegativos\ParesImparesPositivosENegativos\obj\Debug\net6.0\ParesImparesPositivosENegativos.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesImparesPositivosENegativos\ParesImparesPositivosENegativos\obj\Debug\net6.0\ParesImparesPositivosENegativos.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesImparesPositivosENegativos\ParesImparesPositivosENegativos\obj\Debug\net6.0\ParesImparesPositivosENegativos.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesImparesPositivosENegativos\ParesImparesPositivosENegativos\obj\Debug\net6.0\refint\ParesImparesPositivosENegativos.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesImparesPositivosENegativos\ParesImparesPositivosENegativos\obj\Debug\net6.0\ParesImparesPositivosENegativos.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesImparesPositivosENegativos\ParesImparesPositivosENegativos\obj\Debug\net6.0\ParesImparesPositivosENegativos.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\ParesImparesPositivosENegativos\ParesImparesPositivosENegativos\obj\Debug\net6.0\ref\ParesImparesPositivosENegativos.dll

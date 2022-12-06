@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Cedulas\Cedulas\bin\Debug\net6.0\Cedulas.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Cedulas\Cedulas\bin\Debug\net6.0\Cedulas.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Cedulas\Cedulas\bin\Debug\net6.0\Cedulas.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Cedulas\Cedulas\bin\Debug\net6.0\Cedulas.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Cedulas\Cedulas\bin\Debug\net6.0\Cedulas.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Cedulas\Cedulas\obj\Debug\net6.0\Cedulas.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Cedulas\Cedulas\obj\Debug\net6.0\Cedulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Cedulas\Cedulas\obj\Debug\net6.0\Cedulas.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Cedulas\Cedulas\obj\Debug\net6.0\Cedulas.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Cedulas\Cedulas\obj\Debug\net6.0\Cedulas.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Cedulas\Cedulas\obj\Debug\net6.0\Cedulas.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Cedulas\Cedulas\obj\Debug\net6.0\refint\Cedulas.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Cedulas\Cedulas\obj\Debug\net6.0\Cedulas.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Cedulas\Cedulas\obj\Debug\net6.0\Cedulas.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Cedulas\Cedulas\obj\Debug\net6.0\ref\Cedulas.dll

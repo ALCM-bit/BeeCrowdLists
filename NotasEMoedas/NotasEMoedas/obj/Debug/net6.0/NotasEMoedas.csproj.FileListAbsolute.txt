@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NotasEMoedas\NotasEMoedas\bin\Debug\net6.0\NotasEMoedas.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NotasEMoedas\NotasEMoedas\bin\Debug\net6.0\NotasEMoedas.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NotasEMoedas\NotasEMoedas\bin\Debug\net6.0\NotasEMoedas.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NotasEMoedas\NotasEMoedas\bin\Debug\net6.0\NotasEMoedas.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NotasEMoedas\NotasEMoedas\bin\Debug\net6.0\NotasEMoedas.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NotasEMoedas\NotasEMoedas\obj\Debug\net6.0\NotasEMoedas.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NotasEMoedas\NotasEMoedas\obj\Debug\net6.0\NotasEMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NotasEMoedas\NotasEMoedas\obj\Debug\net6.0\NotasEMoedas.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NotasEMoedas\NotasEMoedas\obj\Debug\net6.0\NotasEMoedas.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NotasEMoedas\NotasEMoedas\obj\Debug\net6.0\NotasEMoedas.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NotasEMoedas\NotasEMoedas\obj\Debug\net6.0\NotasEMoedas.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NotasEMoedas\NotasEMoedas\obj\Debug\net6.0\refint\NotasEMoedas.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NotasEMoedas\NotasEMoedas\obj\Debug\net6.0\NotasEMoedas.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NotasEMoedas\NotasEMoedas\obj\Debug\net6.0\NotasEMoedas.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\NotasEMoedas\NotasEMoedas\obj\Debug\net6.0\ref\NotasEMoedas.dll

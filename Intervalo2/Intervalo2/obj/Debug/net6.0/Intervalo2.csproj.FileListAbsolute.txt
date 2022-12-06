@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Intervalo2\Intervalo2\bin\Debug\net6.0\Intervalo2.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Intervalo2\Intervalo2\bin\Debug\net6.0\Intervalo2.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Intervalo2\Intervalo2\bin\Debug\net6.0\Intervalo2.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Intervalo2\Intervalo2\bin\Debug\net6.0\Intervalo2.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Intervalo2\Intervalo2\bin\Debug\net6.0\Intervalo2.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Intervalo2\Intervalo2\obj\Debug\net6.0\Intervalo2.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Intervalo2\Intervalo2\obj\Debug\net6.0\Intervalo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Intervalo2\Intervalo2\obj\Debug\net6.0\Intervalo2.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Intervalo2\Intervalo2\obj\Debug\net6.0\Intervalo2.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Intervalo2\Intervalo2\obj\Debug\net6.0\Intervalo2.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Intervalo2\Intervalo2\obj\Debug\net6.0\Intervalo2.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Intervalo2\Intervalo2\obj\Debug\net6.0\refint\Intervalo2.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Intervalo2\Intervalo2\obj\Debug\net6.0\Intervalo2.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Intervalo2\Intervalo2\obj\Debug\net6.0\Intervalo2.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\Intervalo2\Intervalo2\obj\Debug\net6.0\ref\Intervalo2.dll

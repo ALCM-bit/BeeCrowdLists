@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CrescenteEDecrescente\CrescenteEDecrescente\bin\Debug\net6.0\CrescenteEDecrescente.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CrescenteEDecrescente\CrescenteEDecrescente\bin\Debug\net6.0\CrescenteEDecrescente.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CrescenteEDecrescente\CrescenteEDecrescente\bin\Debug\net6.0\CrescenteEDecrescente.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CrescenteEDecrescente\CrescenteEDecrescente\bin\Debug\net6.0\CrescenteEDecrescente.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CrescenteEDecrescente\CrescenteEDecrescente\bin\Debug\net6.0\CrescenteEDecrescente.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CrescenteEDecrescente\CrescenteEDecrescente\obj\Debug\net6.0\CrescenteEDecrescente.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CrescenteEDecrescente\CrescenteEDecrescente\obj\Debug\net6.0\CrescenteEDecrescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CrescenteEDecrescente\CrescenteEDecrescente\obj\Debug\net6.0\CrescenteEDecrescente.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CrescenteEDecrescente\CrescenteEDecrescente\obj\Debug\net6.0\CrescenteEDecrescente.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CrescenteEDecrescente\CrescenteEDecrescente\obj\Debug\net6.0\CrescenteEDecrescente.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CrescenteEDecrescente\CrescenteEDecrescente\obj\Debug\net6.0\CrescenteEDecrescente.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CrescenteEDecrescente\CrescenteEDecrescente\obj\Debug\net6.0\refint\CrescenteEDecrescente.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CrescenteEDecrescente\CrescenteEDecrescente\obj\Debug\net6.0\CrescenteEDecrescente.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CrescenteEDecrescente\CrescenteEDecrescente\obj\Debug\net6.0\CrescenteEDecrescente.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\CrescenteEDecrescente\CrescenteEDecrescente\obj\Debug\net6.0\ref\CrescenteEDecrescente.dll

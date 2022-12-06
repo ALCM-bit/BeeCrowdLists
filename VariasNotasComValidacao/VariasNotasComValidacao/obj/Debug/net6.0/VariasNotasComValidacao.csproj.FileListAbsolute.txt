@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\VariasNotasComValidacao\VariasNotasComValidacao\bin\Debug\net6.0\VariasNotasComValidacao.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\VariasNotasComValidacao\VariasNotasComValidacao\bin\Debug\net6.0\VariasNotasComValidacao.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\VariasNotasComValidacao\VariasNotasComValidacao\bin\Debug\net6.0\VariasNotasComValidacao.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\VariasNotasComValidacao\VariasNotasComValidacao\bin\Debug\net6.0\VariasNotasComValidacao.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\VariasNotasComValidacao\VariasNotasComValidacao\bin\Debug\net6.0\VariasNotasComValidacao.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\VariasNotasComValidacao\VariasNotasComValidacao\obj\Debug\net6.0\VariasNotasComValidacao.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\VariasNotasComValidacao\VariasNotasComValidacao\obj\Debug\net6.0\VariasNotasComValidacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\VariasNotasComValidacao\VariasNotasComValidacao\obj\Debug\net6.0\VariasNotasComValidacao.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\VariasNotasComValidacao\VariasNotasComValidacao\obj\Debug\net6.0\VariasNotasComValidacao.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\VariasNotasComValidacao\VariasNotasComValidacao\obj\Debug\net6.0\VariasNotasComValidacao.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\VariasNotasComValidacao\VariasNotasComValidacao\obj\Debug\net6.0\VariasNotasComValidacao.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\VariasNotasComValidacao\VariasNotasComValidacao\obj\Debug\net6.0\refint\VariasNotasComValidacao.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\VariasNotasComValidacao\VariasNotasComValidacao\obj\Debug\net6.0\VariasNotasComValidacao.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\VariasNotasComValidacao\VariasNotasComValidacao\obj\Debug\net6.0\VariasNotasComValidacao.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\VariasNotasComValidacao\VariasNotasComValidacao\obj\Debug\net6.0\ref\VariasNotasComValidacao.dll

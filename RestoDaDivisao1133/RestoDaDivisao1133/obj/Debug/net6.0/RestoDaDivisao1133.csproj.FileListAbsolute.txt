@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\RestoDaDivisao1133\RestoDaDivisao1133\bin\Debug\net6.0\RestoDaDivisao1133.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\RestoDaDivisao1133\RestoDaDivisao1133\bin\Debug\net6.0\RestoDaDivisao1133.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\RestoDaDivisao1133\RestoDaDivisao1133\bin\Debug\net6.0\RestoDaDivisao1133.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\RestoDaDivisao1133\RestoDaDivisao1133\bin\Debug\net6.0\RestoDaDivisao1133.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\RestoDaDivisao1133\RestoDaDivisao1133\bin\Debug\net6.0\RestoDaDivisao1133.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\RestoDaDivisao1133\RestoDaDivisao1133\obj\Debug\net6.0\RestoDaDivisao1133.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\RestoDaDivisao1133\RestoDaDivisao1133\obj\Debug\net6.0\RestoDaDivisao1133.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\RestoDaDivisao1133\RestoDaDivisao1133\obj\Debug\net6.0\RestoDaDivisao1133.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\RestoDaDivisao1133\RestoDaDivisao1133\obj\Debug\net6.0\RestoDaDivisao1133.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\RestoDaDivisao1133\RestoDaDivisao1133\obj\Debug\net6.0\RestoDaDivisao1133.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\RestoDaDivisao1133\RestoDaDivisao1133\obj\Debug\net6.0\RestoDaDivisao1133.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\RestoDaDivisao1133\RestoDaDivisao1133\obj\Debug\net6.0\refint\RestoDaDivisao1133.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\RestoDaDivisao1133\RestoDaDivisao1133\obj\Debug\net6.0\RestoDaDivisao1133.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\RestoDaDivisao1133\RestoDaDivisao1133\obj\Debug\net6.0\RestoDaDivisao1133.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\RestoDaDivisao1133\RestoDaDivisao1133\obj\Debug\net6.0\ref\RestoDaDivisao1133.dll

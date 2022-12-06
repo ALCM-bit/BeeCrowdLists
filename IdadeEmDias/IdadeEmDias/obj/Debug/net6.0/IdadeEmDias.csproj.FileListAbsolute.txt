@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\IdadeEmDias\IdadeEmDias\bin\Debug\net6.0\IdadeEmDias.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\IdadeEmDias\IdadeEmDias\bin\Debug\net6.0\IdadeEmDias.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\IdadeEmDias\IdadeEmDias\bin\Debug\net6.0\IdadeEmDias.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\IdadeEmDias\IdadeEmDias\bin\Debug\net6.0\IdadeEmDias.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\IdadeEmDias\IdadeEmDias\bin\Debug\net6.0\IdadeEmDias.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\IdadeEmDias\IdadeEmDias\obj\Debug\net6.0\IdadeEmDias.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\IdadeEmDias\IdadeEmDias\obj\Debug\net6.0\IdadeEmDias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\IdadeEmDias\IdadeEmDias\obj\Debug\net6.0\IdadeEmDias.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\IdadeEmDias\IdadeEmDias\obj\Debug\net6.0\IdadeEmDias.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\IdadeEmDias\IdadeEmDias\obj\Debug\net6.0\IdadeEmDias.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\IdadeEmDias\IdadeEmDias\obj\Debug\net6.0\IdadeEmDias.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\IdadeEmDias\IdadeEmDias\obj\Debug\net6.0\refint\IdadeEmDias.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\IdadeEmDias\IdadeEmDias\obj\Debug\net6.0\IdadeEmDias.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\IdadeEmDias\IdadeEmDias\obj\Debug\net6.0\IdadeEmDias.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\IdadeEmDias\IdadeEmDias\obj\Debug\net6.0\ref\IdadeEmDias.dll
