@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubstituicaoEmVertorI1172", "SubstituicaoEmVertorI1172\SubstituicaoEmVertorI1172.csproj", "{93B525E3-451D-4A5B-9513-10B0E64B8BD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93B525E3-451D-4A5B-9513-10B0E64B8BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B525E3-451D-4A5B-9513-10B0E64B8BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B525E3-451D-4A5B-9513-10B0E64B8BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B525E3-451D-4A5B-9513-10B0E64B8BD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A33873E8-9A93-4958-BB01-F5F2F8D59F8D}
+	EndGlobalSection
+EndGlobal

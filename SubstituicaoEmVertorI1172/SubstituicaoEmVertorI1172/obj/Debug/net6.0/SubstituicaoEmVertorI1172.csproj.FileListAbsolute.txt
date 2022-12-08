@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SubstituicaoEmVertorI1172\SubstituicaoEmVertorI1172\bin\Debug\net6.0\SubstituicaoEmVertorI1172.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SubstituicaoEmVertorI1172\SubstituicaoEmVertorI1172\bin\Debug\net6.0\SubstituicaoEmVertorI1172.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SubstituicaoEmVertorI1172\SubstituicaoEmVertorI1172\bin\Debug\net6.0\SubstituicaoEmVertorI1172.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SubstituicaoEmVertorI1172\SubstituicaoEmVertorI1172\bin\Debug\net6.0\SubstituicaoEmVertorI1172.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SubstituicaoEmVertorI1172\SubstituicaoEmVertorI1172\bin\Debug\net6.0\SubstituicaoEmVertorI1172.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SubstituicaoEmVertorI1172\SubstituicaoEmVertorI1172\obj\Debug\net6.0\SubstituicaoEmVertorI1172.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SubstituicaoEmVertorI1172\SubstituicaoEmVertorI1172\obj\Debug\net6.0\SubstituicaoEmVertorI1172.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SubstituicaoEmVertorI1172\SubstituicaoEmVertorI1172\obj\Debug\net6.0\SubstituicaoEmVertorI1172.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SubstituicaoEmVertorI1172\SubstituicaoEmVertorI1172\obj\Debug\net6.0\SubstituicaoEmVertorI1172.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SubstituicaoEmVertorI1172\SubstituicaoEmVertorI1172\obj\Debug\net6.0\SubstituicaoEmVertorI1172.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SubstituicaoEmVertorI1172\SubstituicaoEmVertorI1172\obj\Debug\net6.0\SubstituicaoEmVertorI1172.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SubstituicaoEmVertorI1172\SubstituicaoEmVertorI1172\obj\Debug\net6.0\refint\SubstituicaoEmVertorI1172.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SubstituicaoEmVertorI1172\SubstituicaoEmVertorI1172\obj\Debug\net6.0\SubstituicaoEmVertorI1172.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SubstituicaoEmVertorI1172\SubstituicaoEmVertorI1172\obj\Debug\net6.0\SubstituicaoEmVertorI1172.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SubstituicaoEmVertorI1172\SubstituicaoEmVertorI1172\obj\Debug\net6.0\ref\SubstituicaoEmVertorI1172.dll

@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PreenchimentoDeVetor1173\PreenchimentoDeVetor1173\obj\Debug\net6.0\PreenchimentoDeVetor1173.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PreenchimentoDeVetor1173\PreenchimentoDeVetor1173\obj\Debug\net6.0\PreenchimentoDeVetor1173.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PreenchimentoDeVetor1173\PreenchimentoDeVetor1173\obj\Debug\net6.0\PreenchimentoDeVetor1173.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PreenchimentoDeVetor1173\PreenchimentoDeVetor1173\obj\Debug\net6.0\PreenchimentoDeVetor1173.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PreenchimentoDeVetor1173\PreenchimentoDeVetor1173\obj\Debug\net6.0\PreenchimentoDeVetor1173.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PreenchimentoDeVetor1173\PreenchimentoDeVetor1173\bin\Debug\net6.0\PreenchimentoDeVetor1173.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PreenchimentoDeVetor1173\PreenchimentoDeVetor1173\bin\Debug\net6.0\PreenchimentoDeVetor1173.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PreenchimentoDeVetor1173\PreenchimentoDeVetor1173\bin\Debug\net6.0\PreenchimentoDeVetor1173.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PreenchimentoDeVetor1173\PreenchimentoDeVetor1173\bin\Debug\net6.0\PreenchimentoDeVetor1173.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PreenchimentoDeVetor1173\PreenchimentoDeVetor1173\bin\Debug\net6.0\PreenchimentoDeVetor1173.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PreenchimentoDeVetor1173\PreenchimentoDeVetor1173\obj\Debug\net6.0\PreenchimentoDeVetor1173.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PreenchimentoDeVetor1173\PreenchimentoDeVetor1173\obj\Debug\net6.0\refint\PreenchimentoDeVetor1173.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PreenchimentoDeVetor1173\PreenchimentoDeVetor1173\obj\Debug\net6.0\PreenchimentoDeVetor1173.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PreenchimentoDeVetor1173\PreenchimentoDeVetor1173\obj\Debug\net6.0\PreenchimentoDeVetor1173.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\PreenchimentoDeVetor1173\PreenchimentoDeVetor1173\obj\Debug\net6.0\ref\PreenchimentoDeVetor1173.dll

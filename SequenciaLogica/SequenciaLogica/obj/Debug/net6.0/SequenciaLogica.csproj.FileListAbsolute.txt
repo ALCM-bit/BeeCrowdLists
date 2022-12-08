@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaLogica\SequenciaLogica\bin\Debug\net6.0\SequenciaLogica.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaLogica\SequenciaLogica\bin\Debug\net6.0\SequenciaLogica.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaLogica\SequenciaLogica\bin\Debug\net6.0\SequenciaLogica.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaLogica\SequenciaLogica\bin\Debug\net6.0\SequenciaLogica.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaLogica\SequenciaLogica\bin\Debug\net6.0\SequenciaLogica.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaLogica\SequenciaLogica\obj\Debug\net6.0\SequenciaLogica.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaLogica\SequenciaLogica\obj\Debug\net6.0\SequenciaLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaLogica\SequenciaLogica\obj\Debug\net6.0\SequenciaLogica.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaLogica\SequenciaLogica\obj\Debug\net6.0\SequenciaLogica.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaLogica\SequenciaLogica\obj\Debug\net6.0\SequenciaLogica.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaLogica\SequenciaLogica\obj\Debug\net6.0\SequenciaLogica.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaLogica\SequenciaLogica\obj\Debug\net6.0\refint\SequenciaLogica.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaLogica\SequenciaLogica\obj\Debug\net6.0\SequenciaLogica.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaLogica\SequenciaLogica\obj\Debug\net6.0\SequenciaLogica.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\SequenciaLogica\SequenciaLogica\obj\Debug\net6.0\ref\SequenciaLogica.dll
