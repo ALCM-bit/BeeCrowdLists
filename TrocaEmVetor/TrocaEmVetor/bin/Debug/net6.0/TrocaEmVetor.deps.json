@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TrocaEmVetor/1.0.0": {
+        "runtime": {
+          "TrocaEmVetor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TrocaEmVetor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

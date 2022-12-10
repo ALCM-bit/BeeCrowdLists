@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TrocaEmVetor\TrocaEmVetor\bin\Debug\net6.0\TrocaEmVetor.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TrocaEmVetor\TrocaEmVetor\bin\Debug\net6.0\TrocaEmVetor.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TrocaEmVetor\TrocaEmVetor\bin\Debug\net6.0\TrocaEmVetor.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TrocaEmVetor\TrocaEmVetor\bin\Debug\net6.0\TrocaEmVetor.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TrocaEmVetor\TrocaEmVetor\bin\Debug\net6.0\TrocaEmVetor.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TrocaEmVetor\TrocaEmVetor\obj\Debug\net6.0\TrocaEmVetor.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TrocaEmVetor\TrocaEmVetor\obj\Debug\net6.0\TrocaEmVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TrocaEmVetor\TrocaEmVetor\obj\Debug\net6.0\TrocaEmVetor.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TrocaEmVetor\TrocaEmVetor\obj\Debug\net6.0\TrocaEmVetor.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TrocaEmVetor\TrocaEmVetor\obj\Debug\net6.0\TrocaEmVetor.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TrocaEmVetor\TrocaEmVetor\obj\Debug\net6.0\TrocaEmVetor.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TrocaEmVetor\TrocaEmVetor\obj\Debug\net6.0\refint\TrocaEmVetor.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TrocaEmVetor\TrocaEmVetor\obj\Debug\net6.0\TrocaEmVetor.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TrocaEmVetor\TrocaEmVetor\obj\Debug\net6.0\TrocaEmVetor.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\TrocaEmVetor\TrocaEmVetor\obj\Debug\net6.0\ref\TrocaEmVetor.dll

@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FibonacciEmVetor\FibonacciEmVetor\bin\Debug\net6.0\FibonacciEmVetor.exe
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FibonacciEmVetor\FibonacciEmVetor\bin\Debug\net6.0\FibonacciEmVetor.deps.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FibonacciEmVetor\FibonacciEmVetor\bin\Debug\net6.0\FibonacciEmVetor.runtimeconfig.json
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FibonacciEmVetor\FibonacciEmVetor\bin\Debug\net6.0\FibonacciEmVetor.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FibonacciEmVetor\FibonacciEmVetor\bin\Debug\net6.0\FibonacciEmVetor.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FibonacciEmVetor\FibonacciEmVetor\obj\Debug\net6.0\FibonacciEmVetor.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FibonacciEmVetor\FibonacciEmVetor\obj\Debug\net6.0\FibonacciEmVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FibonacciEmVetor\FibonacciEmVetor\obj\Debug\net6.0\FibonacciEmVetor.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FibonacciEmVetor\FibonacciEmVetor\obj\Debug\net6.0\FibonacciEmVetor.AssemblyInfo.cs
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FibonacciEmVetor\FibonacciEmVetor\obj\Debug\net6.0\FibonacciEmVetor.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FibonacciEmVetor\FibonacciEmVetor\obj\Debug\net6.0\FibonacciEmVetor.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FibonacciEmVetor\FibonacciEmVetor\obj\Debug\net6.0\refint\FibonacciEmVetor.dll
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FibonacciEmVetor\FibonacciEmVetor\obj\Debug\net6.0\FibonacciEmVetor.pdb
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FibonacciEmVetor\FibonacciEmVetor\obj\Debug\net6.0\FibonacciEmVetor.genruntimeconfig.cache
+C:\Users\felip\Documents\C#-SharpCode\BeeCrowd\FibonacciEmVetor\FibonacciEmVetor\obj\Debug\net6.0\ref\FibonacciEmVetor.dll

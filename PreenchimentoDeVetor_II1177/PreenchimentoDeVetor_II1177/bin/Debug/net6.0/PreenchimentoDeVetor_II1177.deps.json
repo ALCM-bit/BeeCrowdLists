@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PreenchimentoDeVetor_II1177/1.0.0": {
+        "runtime": {
+          "PreenchimentoDeVetor_II1177.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PreenchimentoDeVetor_II1177/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
